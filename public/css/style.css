@@ -1,0 +1,39 @@
+/* :root{
+    --color1: #05b1b1;
+    --color2: #52339a;
+} */
+/* header, section, footer{
+    padding: 100px 0;
+}
+hqader{
+    padding: 200px 0;
+}
+header, footer{
+    background: var(--color1);
+    background: -moz-linear-gradient(left, var(--color1) 0%, var(--color2) 100%);
+    background: -webkit-linear-gradient(left, var(--color1) 0%,var(--color2) 100%);
+    background: linear-gradient(to right, var(--color1) 0%,var(--color2) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=var(--color1), endColorstr=var(--color2),GradientType=1 );
+} */
+
+/* .btn-itd{
+    display: block;
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 8px 30px;
+    color: var(--bs-white);
+    background-color: var(--color2);
+}
+.btn-itd:hover{
+    color: var(--bs-white);
+    background-color: var(--color1);
+} */
+header{
+    background: rgb(91,0,117);
+    background: linear-gradient(90deg, rgba(91,0,117,1) 0%, rgba(146,38,166,1) 36%, rgba(9,177,171,1) 100%);
+    padding: 50px 0;
+}
+.navbar-logo{
+    font-size: 26px;
+    margin-right: 100px;
+}
